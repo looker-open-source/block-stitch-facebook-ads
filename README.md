@@ -1,4 +1,7 @@
 # Facebook Ads
+
+This is not an officially supported Google product. This project is not eligible for the [Google Open Source Software Vulnerability Rewards Program](https://bughunters.google.com/open-source-security).
+
 LookML files for a Facebook block compatible with [Stitch](https://www.stitchdata.com/integrations/facebook-ads/) Facebook Integration Tables.
 
  To use this block, you will need to:
